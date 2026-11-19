@@ -12,14 +12,14 @@ and <b>software real people depend on every day</b>.
 </p>
 
 <a href="https://linkedin.com/in/romanghorbani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/></a>&nbsp;
-<a href="https://github.com/Roman-Ghorbani/kitchen-portal"><img src="https://img.shields.io/badge/Kitchen_Portal-4F9DFF?style=for-the-badge&logo=raspberrypi&logoColor=white" height="32" alt="Kitchen Portal"/></a>&nbsp;
+<a href="https://github.com/Roman-Ghorbani/kitchen-portal-overview"><img src="https://img.shields.io/badge/Kitchen_Portal-4F9DFF?style=for-the-badge&logo=raspberrypi&logoColor=white" height="32" alt="Kitchen Portal"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Open_to-Summer_2027_Internships-8B7CFF?style=for-the-badge" height="32" alt="Open to Summer 2027 internships"/>
 
 <br/><br/>
 
 ## Featured work
 
-<a href="https://github.com/Roman-Ghorbani/kitchen-portal"><img src="assets/card-kitchen-portal.svg" width="100%" alt="Kitchen Portal: duty scheduling, late plates and menus for a 95-resident house"/></a>
+<a href="https://github.com/Roman-Ghorbani/kitchen-portal-overview"><img src="assets/card-kitchen-portal.svg" width="100%" alt="Kitchen Portal: duty scheduling, late plates and menus for a 95-resident house"/></a>
 
 <img src="assets/card-home-lab.svg" width="100%" alt="Home Network Lab: segmented network, Proxmox and Tailscale"/>
 
